@@ -24,7 +24,7 @@ Este repositório reúne códigos das provas e o projeto final desenvolvidos no 
 - **Prova 11 - Projeto Sistema de Reservas (Hotel)**
 
 ### 🏛️ Programação Orientada a Objetos (POO)
-- **Prova 12 - POO 1**
+- **Prova 12 - POO 1 (Classes e Polimorfismo simples)**
 - **Prova 13 - POO 2 (Herança e Polimorfismo)**
 - **Prova 14 - POO 3 (Associação e Encapsulamento)**
 
